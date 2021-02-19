@@ -1,0 +1,48 @@
+---
+title: "Xiangrui Zeng"
+baseURL: "https://users.wpi.edu/"
+theme: "zen"
+languageCode: "en-GB"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+author:
+  name: "Xiangrui Zeng"
+  url: "https://users.wpi.edu/"
+  avatar: "path/to/some-image.jpg"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true 
+
+outputs:
+  home: ["HTML", "SearchIndex"]
+  section: ["HTML"]
+
+params:
+  contact: "xzeng2@wpi.edu"
+  copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
+  description: "The zen theme for Hugo example site."
+  dateformat: "2 January, 2006"
+#   favicon: "favicon_packages_v0/favicon.ico"
+  feedlinks: true
+  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  icon: "apple-touch-icon.png"
+  image: "apple-touch-icon.png"
+  imageMaxWidth: 400
+  logo: true
+#   mainSections: -"research" -"news"
+  mainSections: ""
+#   mainSections: "research"
+  mobileMenu: true
+  poweredby: false
+  realfavicongenerator: true
+  sidebar: false
+  submitted: false
+  themeColor: "#ac2b37"
