@@ -904,4 +904,14 @@ img[src$='#floatright'] {
   /* this margin is totally up to you */
   /* whatever else styles you fancy here */ }
 
+p,
+pre {
+  margin: 0.28181818rem 0; }
+
+dl, ol, ul {
+  margin: 0.28181818rem 0; }
+
+li {
+  margin: 0.70454545rem 0; }
+
 /*# sourceMappingURL=styles.css.map */
