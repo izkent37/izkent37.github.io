@@ -24,3 +24,17 @@ img[src$='#floatright']
     margin: 0.7rem;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
+
+
+p,
+pre {
+  @include margin(0.2 0);
+}
+
+dl, ol, ul {
+  @include margin(0.2 0);
+}
+
+li {
+  @include margin(0.5 0);
+}

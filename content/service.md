@@ -1,7 +1,7 @@
 ---
 title: "Service"
 menu: "main"
-weight: 50
+weight: 40
 ---
 
 ## Journal Editorial Service

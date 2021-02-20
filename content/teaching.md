@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 menu: "main"
-weight: 40
+weight: 50
 ---
 **Worcester Polytechnic Institute**, Worcester MA, USA
 * RBE 502 Robot Control, Fall 2020
