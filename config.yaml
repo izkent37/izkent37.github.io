@@ -1,6 +1,6 @@
 ---
 title: "Xiangrui Zeng"
-baseURL: "izkent37.github.io/xz_personal_site/"
+baseURL: "https://izkent37.github.io/xz_personal_site/"
 theme: "zen"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
@@ -11,7 +11,7 @@ paginatePath: "page"
 rssLimit: 20
 author:
   name: "Xiangrui Zeng"
-  url: "izkent37.github.io/xz_personal_site/"
+  url: "https://izkent37.github.io/xz_personal_site/"
   avatar: "path/to/some-image.jpg"
 
 outputFormats:
