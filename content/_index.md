@@ -25,7 +25,7 @@ xzeng2@wpi.edu | 85 Prescott St Suite 201, Worcester, MA 01605, USA
 ## Links
 
 * [Robotics, Mobility, and Cyber-Physical Systems Lab at WPI](https://wp.wpi.edu/rmcplab/)
-* [Google Scholar](https://scholar.google.com/citations?user=yyZvassAAAAJ&hl=en) |  [LinkedIn](https://www.linkedin.com/in/xiangrui-zeng-435218a7/)  |  [WPI Faculty Directory](https://www.wpi.edu/people/faculty/xzeng2)   |  [Curriculum Vitae](https://www.wpi.edu/sites/default/files/2020/08/29/Xiangrui_Zeng_CV.pdf)
+* [Google Scholar](https://scholar.google.com/citations?user=yyZvassAAAAJ&hl=en) |  [LinkedIn](https://www.linkedin.com/in/xiangrui-zeng-435218a7/)  |  [WPI Faculty Directory](https://www.wpi.edu/people/faculty/xzeng2)  
 
 
 
