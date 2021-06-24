@@ -26,7 +26,7 @@ weight: 30
 
 ## Conference Papers
 
-1. Alp Sahin and Xiangrui Zeng. A semi-cooperative routing algorithm to reduce city congestion. SAE Technical Paper 2021-01-0184, 2021
+1. Alp Sahin and Xiangrui Zeng. A Framework for Benchmarking Feedback-Based Dynamic Data Collection Methods in Connected Vehicle Networks. SAE Technical Paper 2021-01-0184, 2021
 
 3. Xiangrui Zeng and Amit Mohanty. A universal map matching framework based on dynamic system and optimal control. In 2019 American Control Conference (ACC), pages 822–827. IEEE, 2019
 4. Xiangrui Zeng and Amit Mohanty. A semi-cooperative routing algorithm to reduce city congestion. SAE Technical Paper 2019-01-0497, 2019
