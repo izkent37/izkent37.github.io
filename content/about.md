@@ -9,11 +9,12 @@ weight: 5
 
 ## Biography
 
-Xiangrui Zeng (曾祥瑞) is a tenure-track assistant professor in the [Robotics Engineering Department](https://www.wpi.edu/academics/departments/robotics-engineering) and [Mechanical Engineering Department](https://www.wpi.edu/academics/departments/mechanical-engineering) at [Worcester Polytechnic Institute](https://www.wpi.edu). He received his B.S. degree in Vehicle Engineering from Tsinghua University, Beijing, China, in 2009, his M.S. degree in Power Engineering and Engineering Thermophysics from Tsinghua University, Beijing, China in 2012, and his Ph.D. in Mechanical Engineering from The Ohio State University, Columbus, Ohio USA in 2016. From 2016 to 2019, he worked as a data scientist in Smart Mobility Analytics at Ford Motor Company, Dearborn, Michigan USA. His research interests cover various topics in connected and automated vehicles, smart mobility systems, and robotics system modeling, analysis, estimation, and control. 
+Xiangrui Zeng (曾祥瑞) is a professor in the [School of Mechanical Science and Engineering](http://english.mse.hust.edu.cn/index.htm) of [Huazhong University of Science and Technology](http://english.hust.edu.cn/). He received his B.S. degree in Vehicle Engineering from Tsinghua University, Beijing, China, in 2009, his M.S. degree in Power Engineering and Engineering Thermophysics from Tsinghua University, Beijing, China in 2012, and his Ph.D. in Mechanical Engineering from The Ohio State University, Columbus, Ohio USA in 2016. From 2016 to 2019, he worked as a data scientist in Smart Mobility Analytics at Ford Motor Company, Dearborn, Michigan, USA. From 2020 to 2021, he was a tenure-track assistant professor in the Robotics Engineering Department and Mechanical Engineering Department at Worcester Polytechnic Institute in Worcester, Massachusetts, USA. His research interests cover various topics in connected and automated vehicles, smart mobility systems, and robotics system modeling, analysis, estimation, and control. 
 
 ## Employment
 
-* Assistant Professor, Robotics Engineering Department & Mechanical Engineering Department, **Worcester Polytechnic Institute**, Worcester MA, USA, 2020 – present
+* Professor, School of Mechanical Science and Engineering, **Huazhong University of Science and Technology**, Wuhan, Hubei, China, 2021 - present
+* Assistant Professor, Robotics Engineering Department & Mechanical Engineering Department, **Worcester Polytechnic Institute**, Worcester MA, USA, 2020 – 2021
 * Data Scientist, Smart Mobility Analytics, **Ford Motor Company**, Dearborn MI, USA, 2016 – 2019
 
 ## Education

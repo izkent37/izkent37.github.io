@@ -6,8 +6,10 @@ weight: 70
 
 Xiangrui Zeng
 
-85 Prescott Street, Suite 201
+School of Mechanical Science and Engineering
 
-Worcester, MA 01605, USA
+Huazhong University of Science & Technology
 
-xzeng2@wpi.edu
+1037 Luoyu Road, Wuhan, Hubei, China (430074)
+
+zeng@hust.edu.cn
