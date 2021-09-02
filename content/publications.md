@@ -31,7 +31,7 @@ approximation. In 2021 American Control Conference (ACC), pages 992–997, 2021 
 data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 2021 ([arXiv version](https://arxiv.org/abs/2011.05112))
 
 
-1. Alp Sahin and Xiangrui Zeng. A Framework for Benchmarking Feedback-Based Dynamic Data Collection Methods in Connected Vehicle Networks. SAE Technical Paper 2021-01-0184, 2021
+1. Alp Sahin and Xiangrui Zeng. A framework for benchmarking feedback-based dynamic data dollection methods in connected vehicle networks. SAE Technical Paper 2021-01-0184, 2021
 
 3. Xiangrui Zeng and Amit Mohanty. A universal map matching framework based on dynamic system and optimal control. In 2019 American Control Conference (ACC), pages 822–827. IEEE, 2019
 4. Xiangrui Zeng and Amit Mohanty. A semi-cooperative routing algorithm to reduce city congestion. SAE Technical Paper 2019-01-0497, 2019
