@@ -6,16 +6,14 @@ weight: 30
 
 [Xiangrui Zeng’s Google Scholar Page](https://scholar.google.com/citations?user=yyZvassAAAAJ&hl=en)
 
-## Pre-prints
-1. Ran Jing and Xiangrui Zeng. Predictive optimal control with data-based disturbance scenario tree approximation. To appear in American Control Conference (ACC), 2021 ([arXiv](https://arxiv.org/abs/2103.08451))
-
-1. Alp Sahin and Xiangrui Zeng. Feedback-based dynamic feature selection for constrained continuous data acquisition. To appear in American Control Conference (ACC), 2021 ([arXiv](https://arxiv.org/abs/2011.05112))
-
 ## Journal Articles
+
+1. Xiangrui Zeng and Junmin Wang. Worst-case relative cost optimal control for dynamic systems
+with finite admissible disturbance sequence sets. International Journal of Control, 94(8):2296–2303,
+2021
 
 1. Xiangrui Zeng, Jae Hyung Lim, John W Schmotzer, and Amit Mohanty. Active route planning for active diesel particulate filter regeneration. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 234(7):1854–1868, 2020
 
-1. Xiangrui Zeng and Junmin Wang. Worst-case relative cost optimal control for dynamic systems with finite admissible disturbance sequence sets. International Journal of Control, 2019
 1. Xiangrui Zeng and Junmin Wang. Optimizing the energy management strategy for plug-in hybrid electric vehicles with multiple frequent routes. IEEE Transactions on Control Systems Technology, 27(1):394–400, 2019
 1. Xiangrui Zeng and Junmin Wang. Global energy-optimal speed planning for road vehicles on a given route. Transportation Research Part C: Emerging Technologies, 93:148–160, 2018
 1. Xiangrui Zeng and Junmin Wang. A stochastic driver pedal behavior model incorporating road information. IEEE Transactions on Human-Machine Systems, 47(5):614–624, 2017
@@ -25,6 +23,13 @@ weight: 30
 1. Fengjun Yan, Song Chen, Xiangrui Zeng, Junfeng Zhao, and Junmin Wang. Modeling and analysis of fuel injection split for diesel engine active fueling control. Journal of Dynamic Systems, Measurement, and Control, 135(6):061016, 2013
 
 ## Conference Papers
+
+1. Ran Jing and Xiangrui Zeng. Predictive optimal control with data-based disturbance scenario tree
+approximation. In 2021 American Control Conference (ACC), pages 992–997, 2021 ([arXiv version](https://arxiv.org/abs/2103.08451))
+
+1. Alp Sahin and Xiangrui Zeng. Feedback-based dynamic feature selection for constrained continuous
+data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 2021 ([arXiv version](https://arxiv.org/abs/2011.05112))
+
 
 1. Alp Sahin and Xiangrui Zeng. A Framework for Benchmarking Feedback-Based Dynamic Data Collection Methods in Connected Vehicle Networks. SAE Technical Paper 2021-01-0184, 2021
 

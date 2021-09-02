@@ -7,7 +7,9 @@ weight: 1
 ![Example image](/images/xz.jpg#center)
 
 ## Xiangrui Zeng (曾祥瑞), Ph.D.
-### Professor
+
+Professor
+
 School of Mechanical Science and Engineering
 
 Huazhong University of Science and Technology
