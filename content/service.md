@@ -6,14 +6,15 @@ weight: 40
 
 ## Journal and Conference Editorial Service
 * Associate Editor, Mechatronics, 2020 – present
-* Associate Editor, Modeling, Estimation and Control Conference (MECC), 2021
 * Guest Editor, Special Issue on Fault Diagnosis and Reliable Control for Vehicle Powertrain Systems,
 International Journal of Vehicle Design, 2020
 * Guest Editor, Focused Section on Reliability Design and Resilient Control for Intelligent Mechatronic Systems, IEEE/ASME Transactions on Mechatronics, 2019
+* Associate Editor, American Control Conference (ACC), 2022
+* Associate Editor, Modeling, Estimation and Control Conference (MECC), 2021
 
 ## Conference Program Committee, Session Organizer/Chair/Co-Chair
 * Organizer, Automotive and Transportation Systems Invited Sessions Invited Session, American Control Conference (ACC), 2022
-* Organizer, AE400 Smart Transportation and Infrastructure, AE500 AI and Machine Learning, SAE WCX, 2022
+* Organizer, AE500 AI and Machine Learning, SAE WCX, 2022
 * Organizer, Automotive and Transportation System Invited Sessions, Modeling, Estimation and Control Conference (MECC), 2021
 * Organizer, Advanced Vehicle Control Invited Session, American Control Conference (ACC), 2021
 * Organizer, AE400 Smart Transportation and Infrastructure, AE500 AI and Machine Learning, SAE WCX, 2021
