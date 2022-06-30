@@ -23,15 +23,17 @@ with finite admissible disturbance sequence sets. International Journal of Contr
 1. Fengjun Yan, Song Chen, Xiangrui Zeng, Junfeng Zhao, and Junmin Wang. Modeling and analysis of fuel injection split for diesel engine active fueling control. Journal of Dynamic Systems, Measurement, and Control, 135(6):061016, 2013
 
 ## Conference Papers
+1. Zhaoyuan Ma and Xiangrui Zeng. Using GPU to accelerate backward induction for vehicle speed
+optimal control. SAE Technical Paper 2022-01-0089, 2022
 
 1. Ran Jing and Xiangrui Zeng. Predictive optimal control with data-based disturbance scenario tree
-approximation. In 2021 American Control Conference (ACC), pages 992–997, 2021 ([arXiv version](https://arxiv.org/abs/2103.08451))
+approximation. In 2021 American Control Conference (ACC), pages 992–997, 2021 ([arXiv link](https://arxiv.org/abs/2103.08451))
 
 1. Alp Sahin and Xiangrui Zeng. Feedback-based dynamic feature selection for constrained continuous
-data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 2021 ([arXiv version](https://arxiv.org/abs/2011.05112))
+data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 2021 ([arXiv link](https://arxiv.org/abs/2011.05112))
 
 
-1. Alp Sahin and Xiangrui Zeng. A framework for benchmarking feedback-based dynamic data dollection methods in connected vehicle networks. SAE Technical Paper 2021-01-0184, 2021
+1. Alp Sahin and Xiangrui Zeng. A framework for benchmarking feedback-based dynamic data collection methods in connected vehicle networks. SAE Technical Paper 2021-01-0184, 2021
 
 3. Xiangrui Zeng and Amit Mohanty. A universal map matching framework based on dynamic system and optimal control. In 2019 American Control Conference (ACC), pages 822–827. IEEE, 2019
 4. Xiangrui Zeng and Amit Mohanty. A semi-cooperative routing algorithm to reduce city congestion. SAE Technical Paper 2019-01-0497, 2019
@@ -44,11 +46,13 @@ data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 
 11. Xiangrui Zeng and Junmin Wang. A dual-loop EGR engine air-path oxygen concentration model with time-varying transport delays. In ASME 2013 Dynamic Systems and Control Conference, page V001T11A002. American Society of Mechanical Engineers, 2013
 
 
-## Patents
+## Select Patents
+1. Xiangrui Zeng, John Schmotzer, Mark Poll, Suhag Raval, and Praveen Bandi. Systems and methods for providing predictive distance-to-empty for vehicles, US Patent 11,361,595, 2022
 
-1. Jeremy Lerner, Taylor Hawley, Jae Hyung Lim, Jason Joseph Woo and Xiangrui Zeng. Crowdsourced remote start for vehicle, US Patent App. 16/586,022, 2021
+1. James Degenhardt, Mohammad Hessam Olya, Hiva Ghanbari, Amit Mohanty, and Xiangrui Zeng. Systems and methods for determining tire inflation pressure loss, US Patent App. 17/536,503, 2022
+2. Jason Woo, Jeremy Lerner, Jae Hyung Lim, and Xiangrui Zeng. Augmented reality displays for locating vehicles, US Patent App. 16/950,890, 2022
+3. Jeremy Lerner, Taylor Hawley, Jae Hyung Lim, Jason Joseph Woo and Xiangrui Zeng. Crowdsourced remote start for vehicle, US Patent App. 16/586,022, 2021
 
-3. Xiangrui Zeng, John Schmotzer, Mark Poll, Suhag Raval, and Praveen Bandi. Systems and methods for providing predictive distance-to-empty for vehicles. Patent App. 16/353, 922, 2020
 4. Xiangrui Zeng, Amit Mohanty, and Arnold Babila. Systems and methods for vehicle scheduling and routing, US Patent App. 16/230,525, 2020
 5. Xiangrui Zeng and Amit Mohanty. Fuel-consumption-based driving behavior scoring, US Patent App. 15/999,385, 2020
 6. Xiangrui Zeng and Amit Mohanty. Methods and apparatus to facilitate tire force estimation, US Patent 10,168,252, 2019
