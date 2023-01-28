@@ -8,9 +8,9 @@ weight: 30
 
 ## Journal Articles
 
-1. Xiangrui Zeng and Junmin Wang. Worst-case relative cost optimal control for dynamic systems
-with finite admissible disturbance sequence sets. International Journal of Control, 94(8):2296–2303,
-2021
+1. Yue Duan and Xiangrui Zeng. Computational synthesis of control barrier functions with applications in automotive lane keeping supervisory control. IET Control Theory & Applications, 2023 ([open access](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12422))
+
+1. Xiangrui Zeng and Junmin Wang. Worst-case relative cost optimal control for dynamic systems with finite admissible disturbance sequence sets. International Journal of Control, 94(8):2296–2303, 2021
 
 1. Xiangrui Zeng, Jae Hyung Lim, John W Schmotzer, and Amit Mohanty. Active route planning for active diesel particulate filter regeneration. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 234(7):1854–1868, 2020
 
@@ -23,27 +23,26 @@ with finite admissible disturbance sequence sets. International Journal of Contr
 1. Fengjun Yan, Song Chen, Xiangrui Zeng, Junfeng Zhao, and Junmin Wang. Modeling and analysis of fuel injection split for diesel engine active fueling control. Journal of Dynamic Systems, Measurement, and Control, 135(6):061016, 2013
 
 ## Conference Papers
-1. Zhaoyuan Ma and Xiangrui Zeng. Using GPU to accelerate backward induction for vehicle speed
-optimal control. SAE Technical Paper 2022-01-0089, 2022
+1. Zhaoyuan Ma and Xiangrui Zeng. Using GPU to accelerate backward induction for vehicle speed optimal control. SAE Technical Paper 2022-01-0089, 2022
 
 1. Ran Jing and Xiangrui Zeng. Predictive optimal control with data-based disturbance scenario tree
-approximation. In 2021 American Control Conference (ACC), pages 992–997, 2021 ([arXiv link](https://arxiv.org/abs/2103.08451))
+approximation. In 2021 American Control Conference (ACC), pages 992–997, 2021 ([preprint available](https://arxiv.org/abs/2103.08451))
 
 1. Alp Sahin and Xiangrui Zeng. Feedback-based dynamic feature selection for constrained continuous
-data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 2021 ([arXiv link](https://arxiv.org/abs/2011.05112))
+data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 2021 ([preprint available](https://arxiv.org/abs/2011.05112))
 
 
 1. Alp Sahin and Xiangrui Zeng. A framework for benchmarking feedback-based dynamic data collection methods in connected vehicle networks. SAE Technical Paper 2021-01-0184, 2021
 
-3. Xiangrui Zeng and Amit Mohanty. A universal map matching framework based on dynamic system and optimal control. In 2019 American Control Conference (ACC), pages 822–827. IEEE, 2019
-4. Xiangrui Zeng and Amit Mohanty. A semi-cooperative routing algorithm to reduce city congestion. SAE Technical Paper 2019-01-0497, 2019
-5. Xiangrui Zeng and Amit Mohanty. Estimating the roll and pitch rate signal drift in a moving ground vehicle. In ASME 2018 Dynamic Systems and Control Conference. American Society of Mechanical Engineers, 2018
-6. Xiangrui Zeng and Junmin Wang. A novel diver pedal behavior model framework incorporating vehicle and road environment information. In American Control Conference (ACC), 2016, pages 3480–3485. IEEE, 2016
-7. Xiangrui Zeng and Junmin Wang. Real-time-implementable relative cost min-max optimal control via a dynamic-programming-like method. In American Control Conference (ACC), 2016, pages 221–226. IEEE, 2016
-8. Xiangrui Zeng and Junmin Wang. Stochastic optimal control for hybrid electric vehicles running on fixed routes. In American Control Conference (ACC), 2015, pages 3273–3278. IEEE, 2015
-9. Xiangrui Zeng and Junmin Wang. A stochastic model predictive control approach for hybrid electric vehicle energy management with road grade preview. In ASME 2014 Dynamic Systems and Control Conference, page V002T20A001. American Society of Mechanical Engineers, 2014
-10. Xiangrui Zeng and Junmin Wang. Control of dual-loop EGR engine air-path systems with adjustable intake manifold condition priorities. In American Control Conference (ACC), 2014, pages 208–213. IEEE, 2014
-11. Xiangrui Zeng and Junmin Wang. A dual-loop EGR engine air-path oxygen concentration model with time-varying transport delays. In ASME 2013 Dynamic Systems and Control Conference, page V001T11A002. American Society of Mechanical Engineers, 2013
+2. Xiangrui Zeng and Amit Mohanty. A universal map matching framework based on dynamic system and optimal control. In 2019 American Control Conference (ACC), pages 822–827. IEEE, 2019
+3. Xiangrui Zeng and Amit Mohanty. A semi-cooperative routing algorithm to reduce city congestion. SAE Technical Paper 2019-01-0497, 2019
+4. Xiangrui Zeng and Amit Mohanty. Estimating the roll and pitch rate signal drift in a moving ground vehicle. In ASME 2018 Dynamic Systems and Control Conference. American Society of Mechanical Engineers, 2018
+5. Xiangrui Zeng and Junmin Wang. A novel diver pedal behavior model framework incorporating vehicle and road environment information. In American Control Conference (ACC), 2016, pages 3480–3485. IEEE, 2016
+6. Xiangrui Zeng and Junmin Wang. Real-time-implementable relative cost min-max optimal control via a dynamic-programming-like method. In American Control Conference (ACC), 2016, pages 221–226. IEEE, 2016
+7. Xiangrui Zeng and Junmin Wang. Stochastic optimal control for hybrid electric vehicles running on fixed routes. In American Control Conference (ACC), 2015, pages 3273–3278. IEEE, 2015
+8. Xiangrui Zeng and Junmin Wang. A stochastic model predictive control approach for hybrid electric vehicle energy management with road grade preview. In ASME 2014 Dynamic Systems and Control Conference, page V002T20A001. American Society of Mechanical Engineers, 2014
+9.  Xiangrui Zeng and Junmin Wang. Control of dual-loop EGR engine air-path systems with adjustable intake manifold condition priorities. In American Control Conference (ACC), 2014, pages 208–213. IEEE, 2014
+10. Xiangrui Zeng and Junmin Wang. A dual-loop EGR engine air-path oxygen concentration model with time-varying transport delays. In ASME 2013 Dynamic Systems and Control Conference, page V001T11A002. American Society of Mechanical Engineers, 2013
 
 
 ## Select Patents

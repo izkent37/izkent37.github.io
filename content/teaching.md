@@ -3,6 +3,10 @@ title: "Teaching"
 menu: "main"
 weight: 50
 ---
+
+**Huazhong University of Science and Technology**, Wuhan, Hubei, China
+* MESE 0051 Artificial Intelligence and Deep Learning, Fall 2022 & Spring 2023
+
 **Worcester Polytechnic Institute**, Worcester MA, USA
 * RBE 595 Special Topics on Optimal Control, Spring 2021 & 2020
 * RBE 502 Robot Control, Fall 2020
