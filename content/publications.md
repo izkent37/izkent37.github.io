@@ -8,6 +8,8 @@ weight: 30
 
 ## Journal Articles
 
+1. Zhuo Wang, Alp Sahin, and Xiangrui Zeng. Wang, Z., Sahin, A., & Zeng, X. (2023). Efficient data collection for connected vehicles with embedded feedback-based dynamic feature selection. IEEE Transactions on Intelligent Vehicles, 2023
+
 1. Yue Duan and Xiangrui Zeng. Computational synthesis of control barrier functions with applications in automotive lane keeping supervisory control. IET Control Theory & Applications, 2023 ([open access](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12422))
 
 1. Xiangrui Zeng and Junmin Wang. Worst-case relative cost optimal control for dynamic systems with finite admissible disturbance sequence sets. International Journal of Control, 94(8):2296–2303, 2021
