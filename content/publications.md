@@ -10,7 +10,7 @@ weight: 30
 
 1. Zhuo Wang, Alp Sahin, and Xiangrui Zeng. Efficient data collection for connected vehicles with embedded feedback-based dynamic feature selection. IEEE Transactions on Intelligent Vehicles, 2023
 
-1. Yue Duan and Xiangrui Zeng. Computational synthesis of control barrier functions with applications in automotive lane keeping supervisory control. IET Control Theory & Applications, 2023 ([open access](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12422))
+1. Yue Duan and Xiangrui Zeng. Computational synthesis of control barrier functions with applications in automotive lane keeping supervisory control. IET Control Theory & Applications, 17(14):1894–1908, 2023
 
 1. Xiangrui Zeng and Junmin Wang. Worst-case relative cost optimal control for dynamic systems with finite admissible disturbance sequence sets. International Journal of Control, 94(8):2296–2303, 2021
 
@@ -28,10 +28,10 @@ weight: 30
 1. Zhaoyuan Ma and Xiangrui Zeng. Using GPU to accelerate backward induction for vehicle speed optimal control. SAE Technical Paper 2022-01-0089, 2022
 
 1. Ran Jing and Xiangrui Zeng. Predictive optimal control with data-based disturbance scenario tree
-approximation. In 2021 American Control Conference (ACC), pages 992–997, 2021 ([preprint available](https://arxiv.org/abs/2103.08451))
+approximation. In 2021 American Control Conference (ACC), pages 992–997, 2021
 
 1. Alp Sahin and Xiangrui Zeng. Feedback-based dynamic feature selection for constrained continuous
-data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 2021 ([preprint available](https://arxiv.org/abs/2011.05112))
+data acquisition. In 2021 American Control Conference (ACC), pages 3507–3512, 2021
 
 
 1. Alp Sahin and Xiangrui Zeng. A framework for benchmarking feedback-based dynamic data collection methods in connected vehicle networks. SAE Technical Paper 2021-01-0184, 2021
