@@ -8,9 +8,9 @@ weight: 30
 
 ## Journal Articles
 
-1. Yunfei Zhou and Xiangrui Zeng. Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute recognition. Robotics and Autonomous Systems, 2023
+1. Yunfei Zhou and Xiangrui Zeng. Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute recognition. Robotics and Autonomous Systems, 171:104580, 2024
 
-1. Zhuo Wang, Alp Sahin, and Xiangrui Zeng. Efficient data collection for connected vehicles with embedded feedback-based dynamic feature selection. IEEE Transactions on Intelligent Vehicles, 2023
+1. Zhuo Wang, Alp Sahin, and Xiangrui Zeng. Efficient data collection for connected vehicles with embedded feedback-based dynamic feature selection. IEEE Transactions on Intelligent Vehicles, 9(1):2509–2519, 2024
 
 1. Yue Duan and Xiangrui Zeng. Computational synthesis of control barrier functions with applications in automotive lane keeping supervisory control. IET Control Theory & Applications, 17(14):1894–1908, 2023
 
