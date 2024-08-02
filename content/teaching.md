@@ -5,7 +5,8 @@ weight: 50
 ---
 
 **Huazhong University of Science and Technology**, Wuhan, Hubei, China
-* MESE 0051 Artificial Intelligence and Deep Learning, Fall 2022 & Spring 2023
+* MESE 0231 Data Science and Machine Learning (I), Spring 2024
+* MESE 0051 Artificial Intelligence and Deep Learning, since Fall 2022
 
 **Worcester Polytechnic Institute**, Worcester MA, USA
 * RBE 595 Special Topics on Optimal Control, Spring 2021 & 2020
