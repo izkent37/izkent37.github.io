@@ -8,6 +8,8 @@ weight: 30
 
 ## Journal Articles
 
+1. Cheng Yin, Xiangrui Zeng, and Zhouping Yin. An improved data-driven predictive optimal con- trol approach for designing hybrid electric vehicle energy management strategies. Applied Energy, 375:123984, 2024
+   
 1. Yunfei Zhou and Xiangrui Zeng. Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute recognition. Robotics and Autonomous Systems, 171:104580, 2024
 
 1. Zhuo Wang, Alp Sahin, and Xiangrui Zeng. Efficient data collection for connected vehicles with embedded feedback-based dynamic feature selection. IEEE Transactions on Intelligent Vehicles, 9(1):2509–2519, 2024
