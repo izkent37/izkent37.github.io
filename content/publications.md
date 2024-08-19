@@ -17,9 +17,7 @@ weight: 30
 1. Yue Duan and Xiangrui Zeng. Computational synthesis of control barrier functions with applications in automotive lane keeping supervisory control. IET Control Theory & Applications, 17(14):1894–1908, 2023
 
 1. Xiangrui Zeng and Junmin Wang. Worst-case relative cost optimal control for dynamic systems with finite admissible disturbance sequence sets. International Journal of Control, 94(8):2296–2303, 2021
-
 1. Xiangrui Zeng, Jae Hyung Lim, John W Schmotzer, and Amit Mohanty. Active route planning for active diesel particulate filter regeneration. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 234(7):1854–1868, 2020
-
 1. Xiangrui Zeng and Junmin Wang. Optimizing the energy management strategy for plug-in hybrid electric vehicles with multiple frequent routes. IEEE Transactions on Control Systems Technology, 27(1):394–400, 2019
 1. Xiangrui Zeng and Junmin Wang. Global energy-optimal speed planning for road vehicles on a given route. Transportation Research Part C: Emerging Technologies, 93:148–160, 2018
 1. Xiangrui Zeng and Junmin Wang. A stochastic driver pedal behavior model incorporating road information. IEEE Transactions on Human-Machine Systems, 47(5):614–624, 2017
