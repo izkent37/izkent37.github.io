@@ -5,6 +5,7 @@ weight: 50
 ---
 
 **Huazhong University of Science and Technology**, Wuhan, Hubei, China
+* MESE 0231 Data Science and Machine Learning (II), Fall 2024
 * MESE 0231 Data Science and Machine Learning (I), Spring 2024
 * MESE 0051 Artificial Intelligence and Deep Learning, since Fall 2022
 
