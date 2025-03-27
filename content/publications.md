@@ -8,13 +8,17 @@ weight: 30
 
 ## Journal Articles
 
-1. Yuxiao Cao, Xiangrui Zeng, and Zhouping Yin. A Game Theoretic Decision-Making Framework With Conflict-Aware Nash Equilibrium Selection for Autonomous Vehicles at Uncontrolled Intersections, IEEE Transactions on Intelligent Transportation Systems, 2024
+1. Yuxiao Cao, Xiangrui Zeng, and Zhouping Yin. A game theoretic decision-making framework with conflict-aware Nash equilibrium selection for autonomous vehicles at uncontrolled intersection, IEEE Transactions on Intelligent Transportation Systems, 26(1):210-224, 2025
+
+1. Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Ziyu Wei, Leyan Zhu, and Zitian Wang. MSAttnFlow: Normalizing flow for unsupervised anomaly detection with multi-scal attention. Pattern Recognition, 161:111220, 2025
 
 1. Cheng Yin, Xiangrui Zeng, and Zhouping Yin. An improved data-driven predictive optimal control approach for designing hybrid electric vehicle energy management strategies. Applied Energy, 375:123984, 2024
-   
-1. Yunfei Zhou and Xiangrui Zeng. Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute recognition. Robotics and Autonomous Systems, 171:104580, 2024
 
 1. Zhuo Wang, Alp Sahin, and Xiangrui Zeng. Efficient data collection for connected vehicles with embedded feedback-based dynamic feature selection. IEEE Transactions on Intelligent Vehicles, 9(1):2509–2519, 2024
+
+1. Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Leyan Zhu, and Xianghao Kong. Few-shot anomaly detection with adaptive feature transformation and descriptor construction. Chinese Journal of Aeronautics, 38(3):103098, 2025
+   
+1. Yunfei Zhou and Xiangrui Zeng. Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute recognition. Robotics and Autonomous Systems, 171:104580, 2024
 
 1. Yue Duan and Xiangrui Zeng. Computational synthesis of control barrier functions with applications in automotive lane keeping supervisory control. IET Control Theory & Applications, 17(14):1894–1908, 2023
 
