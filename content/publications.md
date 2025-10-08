@@ -12,11 +12,13 @@ weight: 30
 
 1. Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Ziyu Wei, Leyan Zhu, and Zitian Wang. MSAttnFlow: Normalizing flow for unsupervised anomaly detection with multi-scal attention. Pattern Recognition, 161:111220, 2025
 
+1. Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Leyan Zhu, and Xianghao Kong. Few-shot anomaly detection with adaptive feature transformation and descriptor construction. Chinese Journal of Aeronautics, 38(3):103098, 2025
+
+1. Yuxiao Cao, Yinuo Jiang, and Xiangrui Zeng. Adaptive game-theoretic decision-making with driving style recognition for autonomous vehicles in uninterrupted traffic flows at intersections. Robotics and Autonomous Systems, page 105180, 2025
+
 1. Cheng Yin, Xiangrui Zeng, and Zhouping Yin. An improved data-driven predictive optimal control approach for designing hybrid electric vehicle energy management strategies. Applied Energy, 375:123984, 2024
 
 1. Zhuo Wang, Alp Sahin, and Xiangrui Zeng. Efficient data collection for connected vehicles with embedded feedback-based dynamic feature selection. IEEE Transactions on Intelligent Vehicles, 9(1):2509–2519, 2024
-
-1. Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Leyan Zhu, and Xianghao Kong. Few-shot anomaly detection with adaptive feature transformation and descriptor construction. Chinese Journal of Aeronautics, 38(3):103098, 2025
    
 1. Yunfei Zhou and Xiangrui Zeng. Towards comprehensive understanding of pedestrians for autonomous driving: Efficient multi-task-learning-based pedestrian detection, tracking and attribute recognition. Robotics and Autonomous Systems, 171:104580, 2024
 
@@ -33,6 +35,8 @@ weight: 30
 1. Fengjun Yan, Song Chen, Xiangrui Zeng, Junfeng Zhao, and Junmin Wang. Modeling and analysis of fuel injection split for diesel engine active fueling control. Journal of Dynamic Systems, Measurement, and Control, 135(6):061016, 2013
 
 ## Conference Papers
+1. Yuxiao Cao and Xiangrui Zeng. Decision-making for autonomous vehicles in unprotected left-turn scenarios considering conflict-aware nash equilibrium selection. In 2025 IEEE Intelligent Vehicles Symposium (IV), pages 1108–1113. IEEE, 2025
+
 1. Zhaoyuan Ma and Xiangrui Zeng. Using GPU to accelerate backward induction for vehicle speed optimal control. SAE Technical Paper 2022-01-0089, 2022
 
 1. Ran Jing and Xiangrui Zeng. Predictive optimal control with data-based disturbance scenario tree
