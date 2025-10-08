@@ -21,7 +21,7 @@ zeng@hust.edu.cn | 1037 Luoyu Road, Wuhan, Hubei, China
 
 * Dynamic systems and control & cyber-physical systems
 * Optimal control, data-enhanced control & reinforcement learning
-* Connected and automated vehicles, smart mobility systems & robotics
+* Robotics, connected and automated vehicles & smart mobility systems
 
 
 ## Links
