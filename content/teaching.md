@@ -5,8 +5,9 @@ weight: 50
 ---
 
 **Huazhong University of Science and Technology**, Wuhan, Hubei, China
+* MESE 0441 Product Design, Fall 2025
 * MESE 0231 Data Science and Machine Learning (II), Fall 2024
-* MESE 0231 Data Science and Machine Learning (I), Spring 2024
+* MESE 0231 Data Science and Machine Learning (I), since Spring 2024
 * MESE 0051 Artificial Intelligence and Deep Learning, since Fall 2022
 
 **Worcester Polytechnic Institute**, Worcester MA, USA
