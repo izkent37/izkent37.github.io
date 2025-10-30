@@ -14,7 +14,7 @@ weight: 30
 
 1. Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Leyan Zhu, and Xianghao Kong. Few-shot anomaly detection with adaptive feature transformation and descriptor construction. Chinese Journal of Aeronautics, 38(3):103098, 2025
 
-1. Yuxiao Cao, Yinuo Jiang, and Xiangrui Zeng. Adaptive game-theoretic decision-making with driving style recognition for autonomous vehicles in uninterrupted traffic flows at intersections. Robotics and Autonomous Systems, page 105180, 2025
+1. Yuxiao Cao, Yinuo Jiang, and Xiangrui Zeng. Adaptive game-theoretic decision-making with driving style recognition for autonomous vehicles in uninterrupted traffic flows at intersections. Robotics and Autonomous Systems, 197:105180, 2025
 
 1. Cheng Yin, Xiangrui Zeng, and Zhouping Yin. An improved data-driven predictive optimal control approach for designing hybrid electric vehicle energy management strategies. Applied Energy, 375:123984, 2024
 
