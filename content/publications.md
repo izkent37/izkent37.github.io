@@ -7,6 +7,11 @@ weight: 30
 [Xiangrui Zeng’s Google Scholar Page](https://scholar.google.com/citations?user=yyZvassAAAAJ&hl=en)
 
 ## Journal Articles
+1. Yuxiao Cao, Yue Duan, Yucong Wang, Xiangrui Zeng, and Zhouping Yin. Interactive game-theoretic decision with self-evolution risk assessment for autonomous vehicles: A cut-in case study in dense traﬀic scenarios. Transportation Research Part C: Emerging Technologies, 186:105621, 2026
+
+1. Yuxiao Cao, Shasha Chen, Anbin Xiong, Yuan Chen, Erli Meng, Bin Wang, and Xiangrui Zeng. Physics-informed transformer for end-to-end energy prediction of integrated electric vehicle thermal management under extreme ambient temperature conditions. Applied Thermal Engineering, page 130776, 2026
+
+1. Yuxiao Cao, Yinuo Jiang, and Xiangrui Zeng. Adaptive game-theoretic decision-making with driving style recognition for autonomous vehicles in uninterrupted traﬀic flows at intersections. Robotics and Autonomous Systems, page 105180, 2025
 
 1. Yuxiao Cao, Xiangrui Zeng, and Zhouping Yin. A game theoretic decision-making framework with conflict-aware Nash equilibrium selection for autonomous vehicles at uncontrolled intersection, IEEE Transactions on Intelligent Transportation Systems, 26(1):210-224, 2025
 
