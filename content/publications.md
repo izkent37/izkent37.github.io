@@ -11,8 +11,6 @@ weight: 30
 
 1. Yuxiao Cao, Shasha Chen, Anbin Xiong, Yuan Chen, Erli Meng, Bin Wang, and Xiangrui Zeng. Physics-informed transformer for end-to-end energy prediction of integrated electric vehicle thermal management under extreme ambient temperature conditions. Applied Thermal Engineering, page 130776, 2026
 
-1. Yuxiao Cao, Yinuo Jiang, and Xiangrui Zeng. Adaptive game-theoretic decision-making with driving style recognition for autonomous vehicles in uninterrupted traﬀic flows at intersections. Robotics and Autonomous Systems, page 105180, 2025
-
 1. Yuxiao Cao, Xiangrui Zeng, and Zhouping Yin. A game theoretic decision-making framework with conflict-aware Nash equilibrium selection for autonomous vehicles at uncontrolled intersection, IEEE Transactions on Intelligent Transportation Systems, 26(1):210-224, 2025
 
 1. Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Ziyu Wei, Leyan Zhu, and Zitian Wang. MSAttnFlow: Normalizing flow for unsupervised anomaly detection with multi-scal attention. Pattern Recognition, 161:111220, 2025
